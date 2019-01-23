@@ -1,0 +1,12 @@
+RPN Calculator
+==============
+* Uses Java 8 and Gradle
+
+To build the Jar file:
+$ gradle jar
+
+To run the test:
+$ gradle test
+
+To run the application after building:
+$ java -jar build/libs/RPNCalculator.jar
